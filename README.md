@@ -11,6 +11,18 @@
 - 🌱 I’m currently learning Web/Application development!
 
 - ⚡ Fun fact: I like everyone. Loves to play Piano!
+
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[twitter]: https://twitter.com/andrewgeorge002
+[youtube]: https://www.youtube.com/channel/UCGFh5o4DYtdBqmREPNrTmaA
+[instagram]: https://instagram.com/_andrewissac
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
