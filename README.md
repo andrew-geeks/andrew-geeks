@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewgeorge002?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fandrewgeorge002&screen_name=andrewgeorge002)
 
 
-## I'm a Developer, Loves Python!
+## Web developer, Loves Python!
 
 - 🔭 I’m currently working on a project News_Boy
 
