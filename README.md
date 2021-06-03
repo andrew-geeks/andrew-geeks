@@ -23,7 +23,6 @@
 [twitter]: https://twitter.com/andrewgeorge002
 [youtube]: https://www.youtube.com/channel/UCGFh5o4DYtdBqmREPNrTmaA
 [instagram]: https://instagram.com/_andrewissac
-[Discord Server]: https://discord.com/invite/bBKwupRy
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
