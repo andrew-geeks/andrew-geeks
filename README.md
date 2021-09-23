@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: I like everyone. Loves to play Piano!
 
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-geeks&bg_color=00000000&theme=synthwave&hide_border=1) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-geeks&layout=compact&bg_color=00000000&theme=synthwave&hide_border=1)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
