@@ -6,9 +6,9 @@
 
 ## Web developer, Loves Python!
 
-- 🔭 I’m currently working on a project News_Boy
+- 🔭 I’m currently working on BookersOnline e-commerce App
 
-- 🌱 I’m currently learning Web/Application development!
+- 🌱 I’m currently learning Web3!
 
 - ⚡ Fun fact: I like everyone. Loves to play Piano!
 
