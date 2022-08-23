@@ -6,9 +6,9 @@
 
 ## Web developer, Loves Python!
 
-- 🔭 I’m currently working on BookersOnline e-commerce App
+- 🔭 I’m currently working on SIH Finals!
 
-- 🌱 I’m currently learning Web3!
+- 🌱 I’m currently learning MachineLearning!
 
 - ⚡ Fun fact: I like everyone. Loves to play Piano!
 
