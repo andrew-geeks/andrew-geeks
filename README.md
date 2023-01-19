@@ -6,7 +6,7 @@
 
 ## Web developer, Loves Python!
 
-- 🔭 I’m currently working on SIH Finals!
+- 🔭 I’m currently working on Propertize!
 
 - 🌱 I’m currently learning MachineLearning!
 
