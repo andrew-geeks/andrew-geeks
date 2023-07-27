@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewgeorge002?label=Follow%20me&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fandrewgeorge002&screen_name=andrewgeorge002)
 
 
-## Web developer, Loves Python!
+## Data Analyst, Python Programmer!
 
 - 🔭 I’m currently working on Propertize!
 
-- 🌱 I’m currently learning MachineLearning!
+- 🌱 I’m currently learning ML & AI!
 
 - ⚡ Fun fact: I like everyone. Loves to play Piano!
 
