@@ -6,7 +6,7 @@
 
 ## Data Analyst, Python Programmer!
 
-- 🔭 I’m currently working on Propertize!
+- 🔭 I’m currently working on [StockPulse.AI](https://github.com/andrew-geeks/StockPulse.AI)🤖!
 
 - 🌱 I’m currently learning ML & AI!
 
