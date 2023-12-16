@@ -28,7 +28,6 @@
 [instagram]: https://instagram.com/_andrewissac
 
 
-[![An image of @andrewgeeks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrewgeeks)](https://holopin.io/@andrewgeeks)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
